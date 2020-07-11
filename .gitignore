@@ -128,5 +128,10 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+<<<<<<< HEAD
 # db
 delivery/delivery/delivery.db
+=======
+#Editor
+.vim/
+>>>>>>> Alteraçaão no gitignore
